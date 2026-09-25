@@ -1,0 +1,29 @@
+# Compilados
+*.exe
+*.spec
+*.pyc
+__pycache__/
+
+# Archivos de salida
+*_ordenado.*
+*.csv
+*.xlsx
+
+# Scripts de ayuda
+auth_*.py
+push_*.py
+create_*.py
+find_*.py
+check_*.py
+setup_*.py
+
+# Entorno de desarrollo
+.venv/
+env/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Git
+*.log
