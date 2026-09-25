@@ -9,15 +9,11 @@ __pycache__/
 *.csv
 *.xlsx
 
-# Scripts de ayuda
-auth_*.py
-push_*.py
-create_*.py
-find_*.py
-check_*.py
-setup_*.py
+# Scripts de ayuda (todos .py excepto INTENTO_UNO.py)
+*.py
+!INTENTO_UNO.py
 
-# Entorno de desarrollo
+# Entorno
 .venv/
 env/
 
